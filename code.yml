@@ -1,12 +1,12 @@
 raw: 0.9
 endpoint: GET
 metadata:
-  title: Hello world
-  description: Hello world example
+  title: maribu
+  description: maribu
   tags:
-    - helloworld
+    - dume
 code: rql
-declaration: hello_world
+declaration: dume
 codeFile: code.rql
 format: json
 security:
