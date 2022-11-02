@@ -6,7 +6,7 @@ metadata:
   tags:
     - dume
 code: rql
-declaration: dume
+declaration: hello_world
 codeFile: code.rql
 format: json
 security:
