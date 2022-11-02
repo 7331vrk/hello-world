@@ -1,0 +1,9 @@
+//
+// Hello world Example
+//
+// Returns a simple string.
+hello_world() := {
+    "ce nas ai zici ca e racheta lu Trump cu care bombardeaza Siria",
+    "ce nas ai zici ca e racheta lu Trump cu care bombardeaza Siria",
+    "ce nas ai zici ca e racheta lu Trump cu care bombardeaza Siria"
+};
