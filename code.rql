@@ -1,1 +1,5 @@
 dume := READ("https://github.com/7331vrk/leaks.ro-discord-bot/blob/master/maribu.json", cache:=interval "2 days");
+
+dume(title: string) := {
+  SELECT * FROM dume
+};
