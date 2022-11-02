@@ -1,5 +1,3 @@
-movies := READ("https://github.com/7331vrk/leaks.ro-discord-bot/blob/master/maribu.json", cache:=interval "2 days");
-
 hello_world() := {
-    SELECT * FROM dume
+    SELECT * FROM READ("https://github.com/7331vrk/leaks.ro-discord-bot/blob/master/maribu.json", cache := interval "1 hour")
 };
